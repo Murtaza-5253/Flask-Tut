@@ -9,6 +9,13 @@
 2.  "python -m venv flasktest" , 
 3.  then 
 4.  "source flasktest/bin/activate"
-5.  then run the python file by
-6.  "python test.py" or "python3 test.py"
+# run the python file 
+
+1.  "python test.py" or "python3 test.py"
+
+go to the browser or postman and type the ip:port/endpoint
+
+eg. 127.0.0.1:5000/add?x=10&y=10
+
+eg. 127.0.0.1:5000/ascii
   
